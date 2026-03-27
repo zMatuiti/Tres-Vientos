@@ -2,10 +2,10 @@
 
 Una *Landing Page* moderna, rápida y *responsive* desarrollada para un negocio local enfocado en la decoración Boho Chic y terapias holísticas. 
 
-🔗 **[Ver el proyecto en vivo aquí](zmatuiti.github.io/Tres-Vientos/)**
+🔗 **[Ver el proyecto en vivo aquí](https://zmatuiti.github.io/Tres-Vientos/)**
 
 ## 🚀 Sobre el Proyecto
-El objetivo de este proyecto fue digitalizar la presencia de "Tres Vientos", creando una interfaz de usuario (UI) limpia, intuitiva y optimizada para dispositivos móviles. La página está diseñada para mostrar un catálogo visual de productos (lámparas de fibras naturales) y detallar servicios de terapias holísticas, facilitando el contacto directo con la terapeuta.
+El objetivo de este proyecto fue digitalizar la presencia de "Tres Vientos", creando una interfaz de usuario (UI) limpia, intuitiva y optimizada para dispositivos móviles. La página está diseñada para mostrar un catálogo visual de productos y detallar servicios de terapias, facilitando el contacto directo con la terapeuta.
 
 ## 🛠️ Tecnologías y Herramientas
 * **Frontend:** HTML5 Semántico, CSS3 (Custom Properties, Flexbox, CSS Grid).
